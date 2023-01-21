@@ -6,8 +6,8 @@
   "typings": "dist/index.d.ts",
   "main": "dist/index.js",
   "repository": {
-    "url": "https://github.com/ISeco/sb-components",
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/ISeco/sb-components.git"
   },
   "peerDependencies": {
     "react": ">=16",
